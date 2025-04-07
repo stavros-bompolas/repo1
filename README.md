@@ -1,10 +1,10 @@
-# NGUD Text Transformation Tool
+# NGUD CoNLL-U Transformation Tool
 
-A Python tool that transforms Standard Greek text to a Northern Greek Urban Dialect (NGUD) representation, applying systematic phonological and orthographic rules.
+A Python tool that transforms Standard Greek CoNLL-U to a Northern Greek Dialect, applying systematic phonological and orthographic rules.
 
 ## Overview
 
-This script applies a set of linguistic transformations to Greek text, converting from Standard Modern Greek to a Northern Greek Urban Dialect representation. It handles various phonological rules including vowel deletions, transformations, and special cases while preserving grammatical structure and readability.
+This script applies a set of linguistic transformations to Standard Modern Greek CoNLL-U file, converting from Standard Modern Greek to a Northern Greek Dialect. It handles various phonological rules including northern vocalism (i.e., vowel raising and deletion), transformations, and special cases while preserving grammatical structure and readability.
 
 ## Features
 
