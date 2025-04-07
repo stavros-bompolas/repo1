@@ -24,4 +24,5 @@ cd ngud-transformer
 
 ## Usage
 The script accepts two command-line arguments: the input file path and the output file path.
-bashCopypython creating-NGUD.py input_file.conllu output_file.conllu
+
+python creating-NGUD.py input_file.conllu output_file.conllu
