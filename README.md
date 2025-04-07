@@ -14,14 +14,6 @@ This script applies a set of linguistic transformations to Greek text, convertin
 - Support for processing CoNLL-U formatted text files
 - Intelligent application of rules with context awareness
 
-## Installation
-
-Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/ngud-transformer.git
-cd ngud-transformer
-
 ## Usage
 The script accepts two command-line arguments: the input file path and the output file path.
 
