@@ -1,6 +1,6 @@
 # NGUD CoNLL-U Transformation Tool
 
-A Python tool that transforms Standard Greek CoNLL-U to a Northern Greek Dialect, applying systematic phonological and orthographic rules.
+A Python tool that transforms Standard Modern Greek CoNLL-U to a Northern Greek Dialect, applying systematic phonological and orthographic rules.
 
 ## Overview
 
